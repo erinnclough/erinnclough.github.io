@@ -2,16 +2,7 @@ import Head from 'next/head';
 // import {BsFillMoonStarsFill} from "react-icons/bs";
 import  {AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 import Image from "next/image";
-import deved from "/home/cfilipovic/erin/portfolio/public/dev-ed-wave.png";
-import design from "/home/cfilipovic/erin/portfolio/public/design.png";
-import code from '/home/cfilipovic/erin/portfolio/public/code.png';
-import consulting from '/home/cfilipovic/erin/portfolio/public/consulting.png';
-import web1 from '/home/cfilipovic/erin/portfolio/public/web1.png';
-import web2 from '/home/cfilipovic/erin/portfolio/public/web2.png';
-import web3 from '/home/cfilipovic/erin/portfolio/public/web3.png';
-import web4 from '/home/cfilipovic/erin/portfolio/public/web4.png';
-import web5 from '/home/cfilipovic/erin/portfolio/public/web5.png';
-import web6 from '/home/cfilipovic/erin/portfolio/public/web6.png';
+import deved from "../public/dev-ed-wave.png";
 import {useState} from 'react';
 
 
