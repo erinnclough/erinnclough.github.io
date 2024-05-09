@@ -33,7 +33,7 @@ export default function Home(){
         </div>
         <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400"> 
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/erinnclough"><AiFillGithub /></a> 
-        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/erinclough/"><AiFillLinkedin /></a>   
+        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/erinnclough/"><AiFillLinkedin /></a>   
         </div>
         <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden md:h-96 md:w-96">
          {/* <Image src={deved} layout="fill" objectFit="cover"/> */}
